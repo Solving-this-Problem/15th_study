@@ -1,6 +1,3 @@
-# 15th-Study
-## 성구
-```py
 # 11501 주식 - DP
 import sys
 input = sys.stdin.readline
@@ -16,4 +13,3 @@ for _ in range(int(input())):
         else:
             benefit += max_price-days[day]  # 최대보다 작거나 같다면 이득에 최대와의 차이 추가하기(사기 수행)
     print(benefit)
-```

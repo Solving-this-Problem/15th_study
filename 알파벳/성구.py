@@ -1,6 +1,4 @@
-# 15th-Study
-## 성구
-```py
+# 1987 알파벳 - DFS
 # 아래와 같은 방식, list대신 set 사용하기
 import sys
 input = sys.stdin.readline
@@ -52,4 +50,3 @@ while stack:
             stack.append((ni, nj, visited+board[ni][nj]))
 print(maxLen)
 '''
-```
