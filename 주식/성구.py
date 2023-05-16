@@ -1,4 +1,4 @@
-# 11501 주식 - DP
+# 11501 주식 - Greedy
 import sys
 input = sys.stdin.readline
 # 테스트 케이스 돌리기
