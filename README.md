@@ -1,5 +1,5 @@
-# 15th-Study
-[15주차] 코딩테스트 준비 4주차
+# 16th-Study
+[16주차] 코딩테스트 준비 4주차
 
 <a href='https://www.acmicpc.net/workbook/view/15511'>백준문제집<a/>
 
